@@ -1,0 +1,6 @@
+altgraph==0.16.1
+fbs==0.8.4
+macholib==1.11
+PyInstaller==3.5
+PySide2==5.13.2
+shiboken2==5.13.2
